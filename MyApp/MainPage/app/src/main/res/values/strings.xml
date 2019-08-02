@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MainPage</string>
+
+    <string name="Main_RadioButton_CheckIn">签到</string>
+    <string name="Main_RadioButton_Bulletin">通报栏</string>
+    <string name="Main_RadioButton_Mine">我的</string>
+
+    <string name="CheckInFragment_Button_CheckIn">开始签到</string>
+    <string name="CheckInFragment_Button_CheckPositon">验证位置</string>
+
+    <string name="MineInfoFragment_TextView_MyAccount">我的账号</string>
+</resources>
